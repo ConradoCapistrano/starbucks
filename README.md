@@ -21,7 +21,7 @@ git clone https://github.com/ConradoCapistrano/starbucks
 ```
 
 ### Acessar o Site do Projeto :
-https://conradocapistrano.github.io/medicenter/
+https://conradocapistrano.github.io/starbucks/
 
 
 # Creator / Autor
