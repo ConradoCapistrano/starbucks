@@ -17,11 +17,12 @@ Algumas funções não funcionam pois dependem do Javascript, que nao foi utiliz
 
 ```bash
 # clonar repositório
-git clone https://github.com/ConradoCapistrano/medicenter
+git clone https://github.com/ConradoCapistrano/starbucks
 ```
 
 ### Acessar o Site do Projeto :
 https://conradocapistrano.github.io/medicenter/
+
 
 # Creator / Autor
 
