@@ -321,6 +321,9 @@ footer .footer_copyright {
         padding-left: 20px;
         padding-right: 20px;
     }
+    .header_menu {
+        margin-left: 20px;
+    }
     .menu_search input {
         max-width: 80px;
     }
